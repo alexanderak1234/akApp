@@ -1,0 +1,24 @@
+/***********************************************githube***********************************************************************************************************
+all about git good tutorial
+https://www.youtube.com/watch?v=0fKg7e37bQE
+https://www.youtube.com/watch?annotation_id=annotation_3593094967&feature=iv&index=10&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&src_vid=0fKg7e37bQE&v=oFYyTZwMyAg
+
+git  clone  https://github.com/ViryaNet/newmob.git
+git add filename   /  git add .  /  git add -A   ==> add the file
+git status ==> show what have on server and what i have on computer
+git commit -m "some test about the change"   / git commite (witohut test you have esc wq get out from the write text for commite )
+git push  ==> about the new file on server
+git pull  ==> download the file from server
+git branch ==> show me all my branch on git tree  and the current branch
+git branch newOfNewBranch    ==> this copy all the kode from the master branch to the new branch
+git checkout newOfNewBranch    ==> this move to the new branch  now evering that i do not change on the master branch
+git checkout master     ==> go back to the master branch
+git merge master ==> this merge the diffrent two branch
+
+if i get error of confilicate just remove the confflict and make git add -A and git committe again
+
+then git push   ==> upload the code to the server side
+
+
+
+/**********************************************************************************************************************************************************
