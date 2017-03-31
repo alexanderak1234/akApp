@@ -19,6 +19,18 @@ git checkout newOfNewBranch    ==> this move to the new branch  now evering that
 git checkout master     ==> go back to the master branch
 git merge master ==> this merge the diffrent two branch
 
+
+git push origin appTestNew   ==> to push to the new branch
+
+
+
+/////start remove file
+git rm lib/firsrt.js      ==>remove file from git
+git commit -m "remove firsrt.js"
+git push
+/////end remove file
+
+
 if i get error of confilicate just remove the confflict and make git add -A and git committe again
 
 then git push   ==> upload the code to the server side
